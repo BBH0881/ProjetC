@@ -1,0 +1,19 @@
+
+Bienvenue dans l'aide de treetest!
+
+treetest permet de faire une recherche dans une arborescence 
+dont la racine est enregistrée dans le fichier tree.conf
+
+Il est possible de faire la recherche selon 3 méthodes : 
+
+1 - Recherche sur l'ensemble des répertoires et sous-répertoires contenus dans l'arborescence
+    Cette recherche ne prend pas en compte les fichiers
+
+2 - Recherche sur l'ensemble des répertoires et sous-répertoires contenus dans l'arborescence
+    ainsi que tous les fichiers
+    
+3 - Recherche sur l'ensemble des fichiers contenus dnas les répertoires et sous-répertoires 
+    contenus dans l'arborescence  
+    Cette recherche ne prend pas en compte que le nom des fichiers
+
+Enfin, il est possible de consulter la dernière recherche effectuée en choissisant la 4ème option
