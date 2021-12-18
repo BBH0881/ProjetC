@@ -1,0 +1,21 @@
+
+Bienvenue dans l'aide!
+il faut d'abord lancer le programme treeload puis lancer le programme treesearch
+dans un second terminal en précisant l'argument -s "recherche": 
+    parexemple : ./treesearch -s tree
+
+    - treeload : 
+        peut avoir comme argument (Facultatif):
+         -c "chemin" pour modifier le chemin de l'arborescence; 
+         -help ou --help ou help pour afficher l'aide; 
+
+         Par exemple :  ./treeload -help 
+                        ./treeload -c /home/etud/Documents
+
+    - treesearch :
+        prend comme argument (obligatoire): 
+         -s ou -search ou search "fichier à chercher". Enregistre l'argument suivant 
+         dans le fichier ./conf/treeload.data
+
+         Par exemple :  ./treesearch -s tree
+                        
